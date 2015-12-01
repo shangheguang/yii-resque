@@ -230,6 +230,7 @@ yii_resque/commands/phpResqueWorker
  * @linux_run_link:  			/usr/local/php/bin/php -f /www/site/dev.website.cn/protected/commands/index.php phpresque stop
  */
 
-有问题可以发送到此邮箱：shangheguang@yeah.net
+有问题可以发送到此邮箱：shangheguang#yeah.net
+把#替换为@
 
 ########################################################################################################################################################################
